@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abenorio/weather.git/static/css/main.32659ab2.css",
+    "main.js": "/abenorio/weather.git/static/js/main.f43711c3.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/abenorio/weather.git/static/js/453.0ccb7fb4.chunk.js",
+    "index.html": "/abenorio/weather.git/index.html",
+    "main.32659ab2.css.map": "/abenorio/weather.git/static/css/main.32659ab2.css.map",
+    "main.f43711c3.js.map": "/abenorio/weather.git/static/js/main.f43711c3.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/abenorio/weather.git/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32659ab2.css",
+    "static/js/main.f43711c3.js"
+  ]
+}
